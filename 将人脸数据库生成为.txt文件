@@ -1,0 +1,12 @@
+具体操作：
+
+1、点开始 点运行。输入 CMD 回车。进入DOS提示符状态下。
+
+2、输入cd\ 回车 表示进入 c:\> 也就是C盘根目录下。
+   输入d: 回车 是进入D盘当前目录，并不一定是根目录。
+
+3、然后cd\ 就进入D盘根目录。
+
+4、输入：cd  D:\Projects_Face_Detection\Datasets\afw 回车；
+
+5、输入命令dir /b/s/p/w *.jpg>Path_Images.txt(这是将所有jpg的文件的文件名都输入到Path_Images.txt文件中)。
